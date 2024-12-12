@@ -1,6 +1,4 @@
 
-setwd("C:/Users/jaime/Desktop/Aarhus semester/Political Science Data Skills/Final project")
-
 Sys.setenv(
   OPENAI_API_KEY = 
 )
