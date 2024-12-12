@@ -1,6 +1,4 @@
 
-use "C:\Users\jaime\Desktop\Thesis data\Final Dataset\finaldaset_thesis.dta" 
-use "C:\Users\jaime\Desktop\Master CCSS\Asignaturas\2 year\Thesis\Thesis data\Final Dataset\finaldaset_thesis.dta"
 xtset cowcode year
 
 label variable executive_power "Executive Power Index"
